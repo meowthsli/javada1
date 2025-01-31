@@ -1,0 +1,10 @@
+name = "add"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Meo"]
+maintainers = ["Meo <example@example.com>"]
+maintainers-logins = ["meowthsli"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
